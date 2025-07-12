@@ -1,0 +1,26 @@
+## Global requirements 
+python-dotenv==1.1.1
+ipython==8.37.0
+black==25.1.0
+nbqa==1.9.1
+
+## 001
+requests==2.32.4
+beautifulsoup4==4.13.4
+google-generativeai==0.8.4
+
+
+## 002
+langchain-google-genai==2.0.2
+langchain-community==0.3.27
+getpass4==0.0.14.1
+
+
+## 005 
+langchain-ollama==0.3.4
+
+
+## 006
+langsmith==0.4.5
+langgraph==0.5.2
+grandalf==0.8

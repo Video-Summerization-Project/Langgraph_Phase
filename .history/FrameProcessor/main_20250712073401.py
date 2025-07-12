@@ -48,5 +48,5 @@ def main(frames_folder: str):
 
 # 🔁 Hardcoded path here
 if __name__ == "__main__":
-    frames_folder_path = "/home/israa/Desktop/Langgraph_Phase/outputs/keyframes"  # ✅ Change this path as needed
+    frames_folder_path = "/home/israa/Desktop/LLM_Projects/008_Grad_Proj/outputs/keyframes"  # ✅ Change this path as needed
     main(frames_folder_path)

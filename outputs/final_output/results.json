@@ -1,0 +1,56 @@
+[
+  {
+    "frame": "keyframe_0000.jpg",
+    "path": "/home/israa/Desktop/Langgraph_Phase/outputs/keyframes/keyframe_0000.jpg",
+    "importance": "not_important",
+    "reason": "Frame is mostly black (over 90%)"
+  },
+  {
+    "frame": "keyframe_0001.jpg",
+    "path": "/home/israa/Desktop/Langgraph_Phase/outputs/keyframes/keyframe_0001.jpg",
+    "importance": "important",
+    "reason": "The frame contains handwritten diagrams and graphs related to electronic filters.  These diagrams are likely essential to understanding the concept being explained in the video. The information is concisely presented and visually clear, making it a key frame for a summary.",
+    "description": {
+      "image_name": "keyframe_0001.jpg",
+      "extracted_text": "Filters",
+      "visual_description": "تعرض الصورة رسمين تخطيطيين لدوائر كهربائية تحتوي على ثنائيات، بالإضافة إلى رسمين بيانيين يوضحان شكل الموجة الناتجة عن كل دائرة.  وكل رسم تخطيطي مصحوب برسم بياني يمثل خرج الدائرة.  يُظهر الرسم البياني شكل الموجة قبل وبعد مرورها عبر الدائرة.\n(\"The image shows two schematic diagrams of electrical circuits containing diodes, as well as two graphs showing the output waveform of each circuit. Each schematic diagram is accompanied by a graph representing the circuit's output. The graph shows the waveform before and after passing through the circuit.\")",
+      "raw_output": "Image Name: keyframe_0001.jpg\nExtracted Text: Filters\nVisual Description: تعرض الصورة رسمين تخطيطيين لدوائر كهربائية تحتوي على ثنائيات، بالإضافة إلى رسمين بيانيين يوضحان شكل الموجة الناتجة عن كل دائرة.  وكل رسم تخطيطي مصحوب برسم بياني يمثل خرج الدائرة.  يُظهر الرسم البياني شكل الموجة قبل وبعد مرورها عبر الدائرة.\n(\"The image shows two schematic diagrams of electrical circuits containing diodes, as well as two graphs showing the output waveform of each circuit. Each schematic diagram is accompanied by a graph representing the circuit's output. The graph shows the waveform before and after passing through the circuit.\")"
+    }
+  },
+  {
+    "frame": "keyframe_0002.jpg",
+    "path": "/home/israa/Desktop/Langgraph_Phase/outputs/keyframes/keyframe_0002.jpg",
+    "importance": "important",
+    "reason": "The frame shows a hand drawing a circuit diagram and a graph, which are likely essential elements of an educational video on electronics or a similar topic.  The diagram and graph represent key information, and the action of drawing them is significant to show the process. Therefore, this frame is crucial for understanding the video content.",
+    "description": {
+      "image_name": "keyframe_0002.jpg",
+      "extracted_text": "2R  V<sub>O</sub>",
+      "visual_description": "تظهر الصورة رسمًا بيانيًا يدويًا لدارة كهربائية بسيطة، بالإضافة إلى رسم بياني يدوي يمثل منحنىً وظيفيًا.  (\"The image shows a hand-drawn diagram of a simple electrical circuit, in addition to a hand-drawn graph representing a functional curve.\")",
+      "raw_output": "Image Name: keyframe_0002.jpg\nExtracted Text:  2R  V<sub>O</sub>\nVisual Description: تظهر الصورة رسمًا بيانيًا يدويًا لدارة كهربائية بسيطة، بالإضافة إلى رسم بياني يدوي يمثل منحنىً وظيفيًا.  (\"The image shows a hand-drawn diagram of a simple electrical circuit, in addition to a hand-drawn graph representing a functional curve.\")"
+    }
+  },
+  {
+    "frame": "keyframe_0003.jpg",
+    "path": "/home/israa/Desktop/Langgraph_Phase/outputs/keyframes/keyframe_0003.jpg",
+    "importance": "important",
+    "reason": "The frame shows a hand holding a calculator displaying what seems to be a calculation result, alongside handwritten formulas and a circuit diagram. This is likely a key moment in a tutorial or educational video demonstrating a calculation process, thus containing essential information for understanding the video content.",
+    "description": {
+      "image_name": "keyframe_0003.jpg",
+      "extracted_text": "* V<sub>DC</sub> = V<sub>P</sub>(recti) * (1 -  2R<sub>L</sub>/R<sub>DC</sub>)\nV<sub>OC</sub> = V<sub>P</sub>(recti) - V<sub>C</sub>/2\n\"Zener diode factor for the circuit (All diode is Si)\"\nCASIO\nFx-991EX\nCLASSWZ",
+      "visual_description": "يظهر في الصورة رسم تخطيطي بسيط لدائرة كهربائية تحتوي على مقاومة قيمتها 2.2 كيلو أوم ومكثف قيمته 50 ملي فاراد.  (\"The image shows a simple schematic diagram of an electrical circuit containing a 2.2kΩ resistor and a 50mF capacitor.\")",
+      "raw_output": "Image Name: keyframe_0003.jpg\nExtracted Text: * V<sub>DC</sub> = V<sub>P</sub>(recti) * (1 -  2R<sub>L</sub>/R<sub>DC</sub>)\nV<sub>OC</sub> = V<sub>P</sub>(recti) - V<sub>C</sub>/2\n\"Zener diode factor for the circuit (All diode is Si)\"\nCASIO\nFx-991EX\nCLASSWZ\n\n\nVisual Description: يظهر في الصورة رسم تخطيطي بسيط لدائرة كهربائية تحتوي على مقاومة قيمتها 2.2 كيلو أوم ومكثف قيمته 50 ملي فاراد.  (\"The image shows a simple schematic diagram of an electrical circuit containing a 2.2kΩ resistor and a 50mF capacitor.\")"
+    }
+  },
+  {
+    "frame": "keyframe_0004.jpg",
+    "path": "/home/israa/Desktop/Langgraph_Phase/outputs/keyframes/keyframe_0004.jpg",
+    "importance": "important",
+    "reason": "The frame shows a key step in solving an electronics problem.  The handwritten circuit diagram and calculations are central to understanding the problem and its solution.  This is essential information for anyone watching a video tutorial on this topic.",
+    "description": {
+      "image_name": "keyframe_0004.jpg",
+      "extracted_text": "`Ex: find ripple factor for the circuit (All diode is Si)`\n`10: I`\n`V1= 115 Vrms`\n`F=60 Hz`\n`Vm = √2`\n`N1/N2`\n`115 x √2`\n`2.2k`\n`50µF`\n`162.65`\n`V2`",
+      "visual_description": "يظهر في الصورة رسم تخطيطي لدارة كهربائية تحتوي على محول، ومجموعة من الدايودات، ومقاومة، ومكثف.  (The image shows a schematic diagram of an electrical circuit containing a transformer, a set of diodes, a resistor, and a capacitor.)",
+      "raw_output": "Image Name: keyframe_0004.jpg\nExtracted Text:  `Ex: find ripple factor for the circuit (All diode is Si)`\n`10: I`\n`V1= 115 Vrms`\n`F=60 Hz`\n`Vm = √2`\n`N1/N2`\n`115 x √2`\n`2.2k`\n`50µF`\n`162.65`\n`V2`\n\n\nVisual Description: يظهر في الصورة رسم تخطيطي لدارة كهربائية تحتوي على محول، ومجموعة من الدايودات، ومقاومة، ومكثف.  (The image shows a schematic diagram of an electrical circuit containing a transformer, a set of diodes, a resistor, and a capacitor.)"
+    }
+  }
+]

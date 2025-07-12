@@ -27,7 +27,7 @@ grandalf==0.8
 
 
 ## Grad Project
-opencv-contrib-python==4.12.0.88
+opencv-python==4.12.0.88
 pillow==11.3.0
 torchvision==0.22.1
 scikit-image==0.25.2
@@ -35,9 +35,17 @@ scikit-learn==1.7.0
 transformers==4.53.2
 pandas==2.3.1
 
-torch==2.7.1
-ImageHash==4.3.2
-av==15.0.0
-
-
-
+pandas
+dotenv
+opencv-contrib-python
+pillow
+scikit-image
+scikit-learn
+torch
+transformers
+imagehash
+av
+langchain
+langchain_community
+langchain_google_genai
+langgraph

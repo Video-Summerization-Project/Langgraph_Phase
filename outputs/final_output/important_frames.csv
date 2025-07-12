@@ -1,0 +1,21 @@
+Image Name,Extracted Text,Visual Description
+keyframe_0001.jpg,Filters,"تعرض الصورة رسمين تخطيطيين لدوائر كهربائية تحتوي على ثنائيات، بالإضافة إلى رسمين بيانيين يوضحان شكل الموجة الناتجة عن كل دائرة.  وكل رسم تخطيطي مصحوب برسم بياني يمثل خرج الدائرة.  يُظهر الرسم البياني شكل الموجة قبل وبعد مرورها عبر الدائرة.
+(""The image shows two schematic diagrams of electrical circuits containing diodes, as well as two graphs showing the output waveform of each circuit. Each schematic diagram is accompanied by a graph representing the circuit's output. The graph shows the waveform before and after passing through the circuit."")"
+keyframe_0002.jpg,2R  V<sub>O</sub>,"تظهر الصورة رسمًا بيانيًا يدويًا لدارة كهربائية بسيطة، بالإضافة إلى رسم بياني يدوي يمثل منحنىً وظيفيًا.  (""The image shows a hand-drawn diagram of a simple electrical circuit, in addition to a hand-drawn graph representing a functional curve."")"
+keyframe_0003.jpg,"* V<sub>DC</sub> = V<sub>P</sub>(recti) * (1 -  2R<sub>L</sub>/R<sub>DC</sub>)
+V<sub>OC</sub> = V<sub>P</sub>(recti) - V<sub>C</sub>/2
+""Zener diode factor for the circuit (All diode is Si)""
+CASIO
+Fx-991EX
+CLASSWZ","يظهر في الصورة رسم تخطيطي بسيط لدائرة كهربائية تحتوي على مقاومة قيمتها 2.2 كيلو أوم ومكثف قيمته 50 ملي فاراد.  (""The image shows a simple schematic diagram of an electrical circuit containing a 2.2kΩ resistor and a 50mF capacitor."")"
+keyframe_0004.jpg,"`Ex: find ripple factor for the circuit (All diode is Si)`
+`10: I`
+`V1= 115 Vrms`
+`F=60 Hz`
+`Vm = √2`
+`N1/N2`
+`115 x √2`
+`2.2k`
+`50µF`
+`162.65`
+`V2`","يظهر في الصورة رسم تخطيطي لدارة كهربائية تحتوي على محول، ومجموعة من الدايودات، ومقاومة، ومكثف.  (The image shows a schematic diagram of an electrical circuit containing a transformer, a set of diodes, a resistor, and a capacitor.)"

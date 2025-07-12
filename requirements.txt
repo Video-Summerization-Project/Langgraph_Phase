@@ -39,5 +39,4 @@ torch==2.7.1
 ImageHash==4.3.2
 av==15.0.0
 
-
-
+gradio==5.36.2
